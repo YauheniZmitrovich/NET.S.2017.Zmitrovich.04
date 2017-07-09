@@ -1,0 +1,10 @@
+E:\EPAM\NET.S.2017.Zmitrovich.04\NET.S.2017.Zmitrovich.04\Logic\bin\Debug\Logic.dll
+E:\EPAM\NET.S.2017.Zmitrovich.04\NET.S.2017.Zmitrovich.04\Logic\bin\Debug\Logic.pdb
+E:\EPAM\NET.S.2017.Zmitrovich.04\NET.S.2017.Zmitrovich.04\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+E:\EPAM\NET.S.2017.Zmitrovich.04\NET.S.2017.Zmitrovich.04\Logic\obj\Debug\Logic.dll
+E:\EPAM\NET.S.2017.Zmitrovich.04\NET.S.2017.Zmitrovich.04\Logic\obj\Debug\Logic.pdb
+E:\EPAM\NET.S.2017.Zmitrovich.04\Logic\bin\Debug\Logic.dll
+E:\EPAM\NET.S.2017.Zmitrovich.04\Logic\bin\Debug\Logic.pdb
+E:\EPAM\NET.S.2017.Zmitrovich.04\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+E:\EPAM\NET.S.2017.Zmitrovich.04\Logic\obj\Debug\Logic.dll
+E:\EPAM\NET.S.2017.Zmitrovich.04\Logic\obj\Debug\Logic.pdb
